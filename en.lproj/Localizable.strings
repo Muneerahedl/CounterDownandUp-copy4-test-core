@@ -12,4 +12,22 @@
 "Countdown"= "Countdown";
 "Delete"="Delete";
 "Edit"="Edit";
-
+"Title"="Title";
+"Event date"="Event date";
+"Pick a color"="Pick a color";
+"Event time"= "Event time";
+"Reminder"="Reminder";
+"Day before"="Day before";
+"When finish"="When finish";
+"Format"="Format";
+"Years"="Years";
+"Months"="Months";
+"Weeks"="Weeks";
+"Days"="Days";
+"Hours"="Hours";
+"Minutes"="Minutes";
+"Seconds"="Seconds";
+"All day"="All day";
+"Add new countdown"="Add new countdown";
+"Save"="Save";
+"Cancel"="Cancel";

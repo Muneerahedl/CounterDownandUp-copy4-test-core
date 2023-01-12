@@ -13,7 +13,8 @@ struct CounterDownandUpApp: App {
     
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            testview()
                 .environment(\.managedObjectContext, dataController.container.viewContext)
         }
     }

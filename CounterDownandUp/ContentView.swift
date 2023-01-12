@@ -31,7 +31,7 @@ struct ContentView: View {
             .navigationTitle(title)
             .navigationBarTitleDisplayMode(.inline)
             .navigationBarItems(
-            leading: NavigationLink(destination: ContentView().navigationBarBackButtonHidden(true) , label:{  Image(systemName: "plus.circle.fill")}))
+            leading: NavigationLink(destination: newcounter().navigationBarBackButtonHidden(true) , label:{  Image(systemName: "plus.circle.fill")}))
             .accentColor(Color("Tcolor"))
             
            
@@ -150,13 +150,13 @@ var countdown_Data = [
 ]
 
 
-var countup_Data = [
-    //var week_Fit_Data = [
-    Countdata(id: 0, name: "تجريبي ١", backgroundcolor: "Redcolor", date: "١ فبراير ٢٠٢١", days:"40"),
-    Countdata(id: 1, name: "تجريبي ٢", backgroundcolor: "Graycolor", date: "٣ أغسطس ٢٠٢٢", days:"97"),
-    Countdata(id: 2, name: "تجريبي ٣", backgroundcolor: "Orangecolor", date: "١٧ فبراير ٢٠٢٢", days:"120"),
-    Countdata(id: 3, name: "تجريبي ٤", backgroundcolor: "Purplecolor", date: "١ جولاي ٢٠٢٢", days:"35"),
-]
+//var countup_Data = [
+//    //var week_Fit_Data = [
+//    Countdata(id: 0, name: "تجريبي ١", backgroundcolor: "Redcolor", date: "١ فبراير ٢٠٢١", days:"40"),
+//    Countdata(id: 1, name: "تجريبي ٢", backgroundcolor: "Graycolor", date: "٣ أغسطس ٢٠٢٢", days:"97"),
+//    Countdata(id: 2, name: "تجريبي ٣", backgroundcolor: "Orangecolor", date: "١٧ فبراير ٢٠٢٢", days:"120"),
+//    Countdata(id: 3, name: "تجريبي ٤", backgroundcolor: "Purplecolor", date: "١ جولاي ٢٠٢٢", days:"35"),
+//]
 
 
 

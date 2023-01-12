@@ -11,5 +11,23 @@
 "Countdown"="كم باقي";
 "Delete"="حذف";
 "Edit"="تعديل";
-
+"Title"="العنوان";
+"Event date"="تاريخ الحدث";
+"Pick a color"="اختر لون";
+"Event time"= "وقت الحدث";
+"Reminder"="تذكير";
+"Day before"="قبل يوم";
+"When finish"="عند الانتهاء";
+"Format"="التنسيق";
+"Years"="سنوات";
+"Months"="أشهر";
+"Weeks"="أسابيع";
+"Days"="أيام";
+"Hours"="ساعات";
+"Minutes"="دقائق";
+"Seconds"="ثواني";
+"All day"="اليوم كامل";
+"Add new countdown"="إضافة عداد تنازلي";
+"Save"="حفظ";
+"Cancel"="إلغاء";
 
